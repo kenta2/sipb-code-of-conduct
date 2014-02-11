@@ -48,20 +48,19 @@ don't know what wget(1) or nc(1) are.
 
 No well-actually's
 
-A well-actually happens when someone says something that's almost -
+A well-actually[2] happens when someone says something that's almost -
 but not entirely - correct, and you say, "well, actually..." and then
-give a minor correction. This is especially annoying when the
+give a _minor_ correction. This is especially annoying when the
 correction has no bearing on the actual conversation. This doesn't
 mean SIPB isn't about truth-seeking or that we don't care about being
-precise. Almost all well-actually's in our experience are about
-(intentionally or unintentionally) showing off one's own knowledge,
-not truth-seeking. (Thanks to Miguel de Icaza for originally coining
-the term "well-actually.")
+precise.  However, many well-actually's are, like feigning surprise,
+primarily about (intentionally or unintentionately) demonstrating
+one's own knowledge, not truth-seeking.
 
-Even if the information you convey in your "well, actually..." is of
-the utmost importance or correctness, consider finding a different way
-to say it.  "People don't remember what you tell them, they remember
-how you make them feel."[1]
+Even if you're trying to convey important information or prevent someone
+from making a big mistake, consider finding a different way to say it.
+"People don't remember what you tell them, they remember how you make
+them feel."[1]
 
 No back-seat driving
 
@@ -154,3 +153,4 @@ the person, and move on.  It doesn't mean you're a "bad" person, or
 even a "bad" SIPB member.
 
 [1] Licensed from Peter Iannucci, CC-BY-SA.
+[2] The term "well-actually" was originally coined by Miguel de Icaza.
