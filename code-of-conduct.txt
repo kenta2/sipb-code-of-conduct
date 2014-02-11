@@ -40,6 +40,11 @@ precise. Almost all well-actually's in our experience are about
 not truth-seeking. (Thanks to Miguel de Icaza for originally coining
 the term "well-actually.")
 
+Even if the information you convey in your "well, actually..." is of
+the utmost importance or correctness, consider finding a different way
+to say it.  "People don't remember what you tell them, they remember
+how you make them feel."[1]
+
 No back-seat driving
 
 If you overhear people working through a problem, you shouldn't
@@ -128,3 +133,5 @@ any other SIPB issue, please talk to the Chair or another EC member
 for help. In some cases, it might be appropriate for the Board or EC
 to take formal action, but we hope that won't be necessary.
 
+--
+[1] Licensed from Peter Iannucci, CC-BY-SA.
