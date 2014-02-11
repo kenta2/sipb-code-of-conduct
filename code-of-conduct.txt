@@ -1,16 +1,13 @@
-SIPB social rules and expectations
+SIPB Social Principles
 
 Preamble:
 
-One way we try to remove obstacles to participation is by having a
-small set of social rules. These rules are intended to be lightweight,
-and to make more explicit certain social norms that are normally
-implicit. Most of our social rules really boil down to "don't be a
-jerk" or "don't be annoying." Of course, almost nobody sets out to be
-a jerk or annoying, so telling people not to be jerks isn't a very
-productive strategy. That's why our social rules are designed to
-curtail specific behavior we've found to be destructive to a
-supportive, productive, and fun learning environment.
+The purpose of these principles is to provide guidance and a baseline
+for interpersonal interactions at SIPB, whether in the office, at a
+hackathon, or in an electronic medium.  These expectations are focused
+on individual empowerment and making SIPB a supportive, productive,
+and fun learning environment, where people feel comfortable making
+mistakes and learning from them.
 
 
 No feigning surprise
