@@ -9,6 +9,21 @@ on individual empowerment and making SIPB a supportive, productive,
 and fun learning environment, where people feel comfortable making
 mistakes and learning from them.
 
+Perfection is not required for participation
+
+We want people to participate in SIPB projects without feeling like
+they're going to get flamed for not knowing very much. Obviously, this
+means that you shouldn't be chastising prospectives for making
+mistakes. Less obviously, you shouldn't be chastising people who
+"should know better" in public, either.  Remember that prospectives
+are listening (in the office, on zephyr, on email lists, etc.) and
+might think that such criticism might be directed at them if they make
+an error.
+
+This doesn't mean you can't give people suggestions on how to do
+better, but please don't do so in a way that suggests that they're bad
+person for doing what they did, that they should have done better, or
+that their contribution wasn't worth making.
 
 No feigning surprise
 
@@ -100,23 +115,6 @@ necessarily agree with them, it just means that you recognize that
 they're upset and wish that weren't the case.  This is an opportunity
 to think about how to better word your point in order to avoid
 upsetting others in the future.
-
-Don't act like people need to be perfect to participate
-
-We want people to participate in SIPB projects without feeling like
-they're going to get flamed for not knowing very much. Obviously, this
-means that you shouldn't be chastising prospectives for making
-mistakes. Less obviously, you shouldn't be chastising people who
-"should know better" in public, either.  Remember that prospectives
-are listening (in the office, on zephyr, on email lists, etc.) and
-might think that such criticism might be directed at them if they make
-an error.
-
-This doesn't mean you can't give people suggestions on how to do
-better, but please don't do so in a way that suggests that they're bad
-person for doing what they did, that they should have done better, or
-that their contribution wasn't worth making.
-
 
 Why have these principles?
 
