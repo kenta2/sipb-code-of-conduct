@@ -64,22 +64,23 @@ later, and need to rearrange your ordering.
 
 No subtle sexism, racism, etc.
 
-Our next social rule bans subtle sexism, racism, homophobia, etc.
+Our next principle bans subtle sexism, racism, homophobia, etc.
 (Overt prejudice is, of course, right out.)  This one is different
 from the ones above it, because it's often not a specific, observable
 phenomenon ("well-actually's" are easy to spot because they almost
 always start with the words "well, actually...").
 
-SIPB is not a place to publicly debate whether comment X is sexist,
-racist, etc. If you see something that's unintentionally sexist,
-racist, homophobic, etc. at SIPB you're welcome to point it out to the
-person who made the comment, either publicly or privately, or you can
-ask an EC member to say something to that person. Once the initial
-mention has been made, we ask that all further discussion move off of
-public channels. If you are a third party, and you don't see what
-could be biased about the comment that was made, feel free to talk to
-the EC. Please don't say, "Comment X wasn't homophobic!" Similarly,
-please don't pile on to someone who made a mistake.
+Unlike the other guidelines, incidents which violate this principle
+may not be a comment directed at a specific individual.  In situations
+like this, anyone who observes the behavior should feel empowered to
+talk to the people involved or bring it to the attention of the EC.
+
+If someone says a comment you made was sexist, racist, or otherwise
+discriminatory, please do not enter into a protracted debate about it,
+and never tell someone that their feelings are not valid.  Instead,
+apologize and move on.  If, after reflecting on your comment, you
+still genuinely do not see any bias in your comment, you can contact a
+member of the EC to discuss the incident further.
 
 Apologies consist of "I'm sorry"
 
