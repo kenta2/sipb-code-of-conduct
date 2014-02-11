@@ -1,0 +1,133 @@
+SIPB social rules and expectations
+
+Preamble:
+
+One way we try to remove obstacles to participation is by having a
+small set of social rules. These rules are intended to be lightweight,
+and to make more explicit certain social norms that are normally
+implicit. Most of our social rules really boil down to "don't be a
+jerk" or "don't be annoying." Of course, almost nobody sets out to be
+a jerk or annoying, so telling people not to be jerks isn't a very
+productive strategy. That's why our social rules are designed to
+curtail specific behavior we've found to be destructive to a
+supportive, productive, and fun learning environment.
+
+
+No feigning surprise
+
+The first rule means you shouldn't act surprised when people say they
+don't know something. This applies to both technical things ("What?! I
+can't believe you don't know what Hesiod is!") and non-technical
+things ("You don't know who RMS is?!"). Feigning surprise has
+absolutely no social or educational benefit: When people feign
+surprise, it's usually to make them feel better about themselves and
+others feel worse. And even when that's not the intention, it's almost
+always the effect. As you've probably already guessed, this rule is
+tightly coupled to our belief in the importance of people feeling
+comfortable saying "I don't know" and "I don't understand."
+
+It may be best to avoid acting surprised even when you actually
+are. Regardless of whether you're actually surprised somebody hasn't
+been to Mary's or just pretending, it can be offputting and make the
+listener feel stupid or not like a "real" SIPB member/prospective.
+
+No well-actually's
+
+A well-actually happens when someone says something that's almost -
+but not entirely - correct, and you say, "well, actually..." and then
+give a minor correction. This is especially annoying when the
+correction has no bearing on the actual conversation. This doesn't
+mean SIPB isn't about truth-seeking or that we don't care about being
+precise. Almost all well-actually's in our experience are about
+(intentionally or unintentionally) showing off one's own knowledge,
+not truth-seeking. (Thanks to Miguel de Icaza for originally coining
+the term "well-actually.")
+
+No back-seat driving
+
+If you overhear people working through a problem, you shouldn't
+intermittently lob advice across the room. This can lead to the "too
+many cooks" problem, but more important, it can be rude and disruptive
+to half-participate in a conversation. This isn't to say you shouldn't
+help, offer advice, or join conversations. On the contrary, we
+encourage all those things. Rather, it just means that when you want
+to help out or work with others, you should fully engage and not just
+butt in sporadically.
+
+Somewhat relatedly, when one person is trying to explain a tool or
+concept, keep in mind that they may have a plan for what order they're
+going to introduce ideas in. It can be very disruptive to have
+somebody interject with something you weren't planning to cover until
+later, and need to rearrange your ordering.
+
+No subtle sexism, racism, etc.
+
+Our next social rule bans subtle sexism, racism, homophobia, etc.
+(Overt prejudice is, of course, right out.)  This one is different
+from the ones above it, because it's often not a specific, observable
+phenomenon ("well-actually's" are easy to spot because they almost
+always start with the words "well, actually...").
+
+SIPB is not a place to publicly debate whether comment X is sexist,
+racist, etc. If you see something that's unintentionally sexist,
+racist, homophobic, etc. at SIPB you're welcome to point it out to the
+person who made the comment, either publicly or privately, or you can
+ask an EC member to say something to that person. Once the initial
+mention has been made, we ask that all further discussion move off of
+public channels. If you are a third party, and you don't see what
+could be biased about the comment that was made, feel free to talk to
+the EC. Please don't say, "Comment X wasn't homophobic!" Similarly,
+please don't pile on to someone who made a mistake.
+
+Apologies consist of "I'm sorry"
+
+An apology should be a sincere expression of sadness for the sadness
+of others.  When you follow an apology with "...that", "...if",
+"..but", you're implying that the other person shares some of the
+blame for the incident.  Since they're the one who's upset, that's not
+true.  You may not have intended to make them feel bad, but you did,
+and saying "I'm sorry" shows that you regret that they feel bad
+(which, hopefully, you do.)
+
+Sometimes, people are tempted to say "I'm sorry, but" (etc.) because
+they don't want to concede their point in a discussion.  But this sort
+of "I'm sorry" isn't really an apology, and is an insincere use of the
+words.  Being sorry that someone else feels bad doesn't mean that you
+necessarily agree with them, it just means that you recognize that
+they're upset and wish that weren't the case.  This is an opportunity
+to think about how to better word your point in order to avoid
+upsetting others in the future.
+
+Don't act like people need to be perfect to participate
+
+We want people to participate in SIPB projects without feeling like
+they're going to get flamed for not knowing very much. Obviously, this
+means that you shouldn't be chastising prospectives for making
+mistakes. Less obviously, you shouldn't be chastising people who
+"should know better" in public, either.  Remember that prospectives
+are listening (in the office, on zephyr, on email lists, etc.) and
+might think that such criticism might be directed at them if they make
+an error.
+
+This doesn't mean you can't give people suggestions on how to do
+better, but please don't do so in a way that suggests that they're bad
+person for doing what they did, that they should have done better, or
+that their contribution wasn't worth making.
+
+
+Why have social rules?
+
+The goal isn't to burden SIPB with a bunch of annoying rules, or to
+give us a stick to bludgeon people with for "being bad." Rather, these
+rules are designed to help all of us build a pleasant, productive, and
+welcoming community.
+
+If someone says, "hey, you just feigned surprise," or "that's subtly
+sexist," don't worry. Just apologize, reflect for a second, and move
+on. It doesn't mean you're a "bad" person, or even a "bad" SIPB
+member. As we said above, these rules are meant to be lightweight. If
+you feel that somebody is repeatedly violating these rules, as with
+any other SIPB issue, please talk to the Chair or another EC member
+for help. In some cases, it might be appropriate for the Board or EC
+to take formal action, but we hope that won't be necessary.
+
