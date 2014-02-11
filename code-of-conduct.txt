@@ -27,21 +27,24 @@ that their contribution wasn't worth making.
 
 No feigning surprise
 
-The first rule means you shouldn't act surprised when people say they
-don't know something. This applies to both technical things ("What?! I
-can't believe you don't know what Hesiod is!") and non-technical
-things ("You don't know who RMS is?!"). Feigning surprise has
-absolutely no social or educational benefit: When people feign
-surprise, it's usually to make them feel better about themselves and
-others feel worse. And even when that's not the intention, it's almost
-always the effect. As you've probably already guessed, this rule is
-tightly coupled to our belief in the importance of people feeling
-comfortable saying "I don't know" and "I don't understand."
+This first principle is aimed at discouraging the practice of acting
+overly surprised when some says they don't know something.  This
+applies to both technical things ("What?! I can't believe you don't
+know what Hesiod is!") and non-technical things ("You don't know who
+RMS is?!").  That's not to say you may not be genuinely surprised when
+someone doesn't know something that you have taken for granted.  But
+consider whether the person, who has already admitted to not knowing
+something, wants to be further reminded of it by your reaction.
 
-It may be best to avoid acting surprised even when you actually
-are. Regardless of whether you're actually surprised somebody hasn't
-been to Mary's or just pretending, it can be offputting and make the
-listener feel stupid or not like a "real" SIPB member/prospective.
+Feigning surprise has absolutely no social or educational benefit:
+When people feign surprise, it's usually to make them feel better
+about themselves or demonstrate their vast array of knowledge at the
+expense of others' emotions.  Even when that's not the intention, it's
+almost always the effect.  We want SIPB to be a place where people
+feel safe saying "I don't know" or "I don't understand", because those
+are the first steps to learning.  We don't want an environment where
+people don't feel like a "real" SIPB member/prospective because they
+don't know what wget(1) or nc(1) are.
 
 No well-actually's
 
