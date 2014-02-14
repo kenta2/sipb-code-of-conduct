@@ -153,7 +153,10 @@ convey that these issues are important to the community, and may help
 empower others to speak up.  If someone else tells you that you
 violated these principles, take a minute to reflect, and apologize to
 the person, and move on.  It doesn't mean you're a "bad" person, or
-even a "bad" SIPB member.
+even a "bad" SIPB member.  After all, SIPB should be a place where 
+people can make mistakes and learn from them -- and that includes social
+mistakes.  If you make an occasional social error, _but then learn from
+it_, that's at least as useful as learning something technical.
 
 [1] Licensed from Peter Iannucci, CC-BY-SA.
 [2] The term "well-actually" was originally coined by Miguel de Icaza.
