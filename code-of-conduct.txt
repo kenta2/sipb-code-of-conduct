@@ -59,8 +59,9 @@ precise.  However, many well-actually's are, like feigning surprise,
 primarily about (intentionally or unintentionately) demonstrating
 one's own knowledge, not truth-seeking.
 
-Even if you're trying to convey important information or prevent someone
-from making a big mistake, consider finding a different way to say it.
+While "Well, actually" may be appropriate when conveying a major
+correction or preventing someone from making a dangerous mistake, you
+may wish to consider finding a different way to say it.  In short:
 "People don't remember what you tell them, they remember how you make
 them feel."[1]
 
