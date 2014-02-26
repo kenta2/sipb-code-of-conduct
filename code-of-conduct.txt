@@ -98,10 +98,11 @@ from the ones above it, because it's often not a specific, observable
 phenomenon ("well-actually's" are easy to spot because they almost
 always start with the words "well, actually...").
 
-Unlike the other guidelines, incidents which violate this principle
-may not be a comment directed at a specific individual.  In situations
-like this, anyone who observes the behavior should feel empowered to
-talk to the people involved or bring it to the attention of the EC.
+Unlike many of the situations described in our other guidelines, these
+sorts of incidents may not take the form of a comment directed at a
+specific individual. In situations like this, anyone who observes the
+behavior should feel empowered to talk to the people involved or bring
+it to the attention of the EC.
 
 If someone says a comment you made was sexist, racist, or otherwise
 discriminatory, please do not enter into a protracted debate about it,
