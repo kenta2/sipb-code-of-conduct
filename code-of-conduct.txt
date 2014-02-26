@@ -126,42 +126,30 @@ words.  Being sorry that someone else feels bad doesn't mean that you
 necessarily agree with them, it just means that you recognize that
 they're upset and sincerely wish that weren't the case.
 
-Why have these principles?
-
-The goal isn't to burden SIPB with a bunch of annoying rules, nor to
-give us a stick to bludgeon people with for "being bad", nor to
-encourage "tattling".  Rather, these rules are designed to help all of
-us build a pleasant, productive, and welcoming community.
-
 What happens if someone violates these principles?
 
-It is our hope that the entire community will strive to uphold these
-principles.  If you feel that someone's behavior towards you violates
-the letter or the spirit of these principles, it is our hope that this
-document will make you feel empowered to raise this issue with that
-person, and explain your feelings.  As always, however, if someone's
-behavior or speech in the office is making you feel uncomfortable or
-unwelcome, please contact a member of the EC.
+Our social principles and clarifying guidelines are intended to be a set
+of things we can mutually agree to strive to live by as a community.
+They aren't intended to be a stick to beat people with for "being bad".
+However, it's still important that people be able to help improve the
+social environment when they see something they think is destructive.
 
-If you, as a third party, observe someone else violating the letter or
-spirit of these principles, you are encouraged to speak with the
-person who is upset (if feel comfortable doing so) and discuss the
-incident with them, and if they're still upset, encourage them to
-reach out to the EC.  You should also feel empowered to speak to the
-other party, if you feel comfortable doing so.  Finally, as always, if
-someone's behavior or speech in the office is making you feel
-uncomfortable or unwelcome, please contact a member of the EC.
+If you feel someone has contributed negatively to a SIPB social
+environment (in the office, on a SIPB email list, on our zephyr classes,
+etc.), we encourage you to reach out to that person (or the intended
+target, if you are a third party) and discuss your thoughts with them.
+
+Publicly calling someone out is generally ill-suited to any electronic
+medium, because it can result in a heated conversation that is not only
+distracting, but may in the long run be more toxic than the original
+comment.  If you choose to call someone out in person, focus on what
+they said or did, and not on the person themselves.
 
 Finally, if you yourself realize that you just violated these
 principles, call yourself out on it publicly.  Doing so will help
 convey that these issues are important to the community, and may help
-empower others to speak up.  If someone else tells you that you
-violated these principles, take a minute to reflect, and apologize to
-the person, and move on.  It doesn't mean you're a "bad" person, or
-even a "bad" SIPB member.  After all, SIPB should be a place where 
-people can make mistakes and learn from them -- and that includes social
-mistakes.  If you make an occasional social error, _but then learn from
-it_, that's at least as useful as learning something technical.
+empower others to speak up.  It doesn't mean you're a "bad" person, or
+even a "bad" SIPB member.
 
-[1] Licensed from Peter Iannucci, CC-BY-SA.
-[2] The term "well-actually" was originally coined by Miguel de Icaza.
+Above all, you should *always* feel welcome to approach the Chair or
+any member of the EC regarding *any* issue, social or otherwise.
