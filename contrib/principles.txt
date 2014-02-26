@@ -1,0 +1,153 @@
+SIPB Social Principles
+
+SIPB is an awesome place for interacting with computers, but there are
+people here too! Sometimes though, the line between these gets blurred
+in our heads, and we end up interacting with people like they are
+machines, which results in a sour experience for all parties involved.
+So, we've come up with a set of core principles that we feel is
+important to keep in mind when interacting with our mortal
+counterparts:
+
+1) People don't remember what you tell them, they remember how you
+make them feel.
+
+2) Be sincere.
+
+3) Don't be a jerk.
+
+4) Keep (1) through (3) *especially* in mind when interacting online:
+email, zephyr, etc. Computers have a knack for making human
+interactions less than human.
+
+Sounds simple, right? Unfortunately, it isn't. People aren't usually
+purposefully being unfeeling, insincere, or a jerk, but it still
+happens; c.f. computers vs. humans, we're not perfect. So, we've also
+collected guidelines regarding common examples of where people forget
+these principles and accidentally contribute to a junky social
+environment.  They're not comprehensive, but we think they catch the
+most common pitfalls.
+
+
+---Perfection is not required for participation---
+
+We want people to participate in SIPB projects without feeling like
+they're going to get flamed for not knowing very much. Obviously, this
+means that you shouldn't be chastising prospectives for making
+mistakes. Less obviously, you shouldn't be chastising people who
+"should know better" in public either. Remember that prospectives are
+listening (in the office, on zephyr, on email lists, etc.) and might
+think that such criticism might be directed at them if they make an
+error.
+
+This doesn't mean you can't give people suggestions on how to do
+better, but please don't do so in a way that suggests that they're bad
+person for doing what they did, that they should have done better, or
+that their contribution wasn't worth making.
+
+---Be careful expressing surprise---
+
+Expressing surprise can often make people feel pretty poorly. This is
+particularly true when it is surprise that someone doesn't know
+something or surprise about the way someone tried to do something,
+regardless of whether it is genuine surprise or not. This applies to
+both technical things ("What?! I can't believe you don't know what
+Hesiod is!") and non-technical things ("You don't know who RMS is?!").
+
+We want SIPB to be a place where people feel safe saying "I don't
+know" or "I don't understand", because those are the first steps to
+learning. We don't want an environment where people don't feel like a
+"real" SIPB member/prospective because they don't know what wget(1) or
+nc(1) are.
+
+---Try not to over-correct people ("well-actually's")---
+
+It's hard to resist the urge to demonstrate your knowledge about a
+subject; SIPB is as much as place for teaching as it is a place for
+learning. However, it can be really off-putting when that urge
+manifests itself by someone over-correcting someone else, usually by
+pointing out a subtle technicality. These are easy to spot because
+they almost always start "Well, actually...". While "Well, actually"
+may be appropriate when conveying a major correction or preventing
+someone from making a dangerous mistake, you may wish to consider
+finding a different way to say it.
+
+---Back-seat driving is disruptive---
+
+If you overhear people working through a problem, you avoid
+intermittently lobbing advice across the room. This can lead to the
+"too many cooks" problem, but more important, it can be rude and
+disruptive to half-participate in a conversation. This isn't to say
+you shouldn't help, offer advice, or join conversations. On the
+contrary, we encourage all those things. Rather, it just means that
+when you want to help out or work with others, you should fully engage
+and not just butt in sporadically.
+
+Somewhat relatedly, when one person is trying to explain a tool or
+concept, keep in mind that they may have a plan for what order they're
+going to introduce ideas in. It can be very disruptive to have
+somebody interject with something you weren't planning to cover until
+later, and need to rearrange your ordering.
+
+---No subtle sexism, racism, etc.---
+
+It should go without saying that sexism, racism, and other forms of
+discrimination are not welcome at SIPB. Some things though may not be
+overtly discriminatory at the surface but are still offensive in this
+way. Be mindful of this, and avoid contributing things that you feel
+have this property.
+
+Unlike many of the situations described in our other guidelines, these
+sorts of incidents may not take the form a comment directed at a
+specific individual. In situations like this, anyone who observes the
+behavior should feel empowered to talk to the people involved or bring
+it to the attention of the EC.
+
+If someone says a comment you made was sexist, racist, or otherwise
+discriminatory, please do not enter into a protracted debate about it,
+and never tell someone that their feelings are not valid. Instead,
+apologize and move on. If, after reflecting on your comment, you still
+genuinely do not see any bias in your comment, you can contact a
+member of the EC to discuss the incident further.
+
+---The most sincere apologies consist of "I'm sorry"---
+
+An apology should be a sincere expression of sadness for the sadness
+of others. If you apologize but then qualify your apology with
+"...that", "...if", "...but", you'll likely make the recipient feel
+like you're implying that they share some of the blame for the
+incident; it won't feel like an apology to them.
+
+Sometimes, people are tempted to say "I'm sorry, but" (etc.) because
+they don't want to concede their point in a discussion. But this sort
+of "I'm sorry" isn't really an apology, and is an insincere use of the
+words. Being sorry that someone else feels bad doesn't mean that you
+necessarily agree with them, it just means that you recognize that
+they're upset and sincerely wish that weren't the case.
+
+---"Captain! Lieutenant Foobar violated SIPB Directive 1337!"--- 
+
+"Put that phaser back in its holster, Commander!" Our social
+principles and clarifying guidelines are intended to be a set of
+things we can mutually agree to strive to live by as a community. They
+aren't intended to be a stick to beat people with. However, it's still
+important that people be able to help improve the social environment
+when they see something they think is destructive.
+
+If you feel someone has contributed negatively to a SIPB social
+environment (in the office, on a SIPB email list, on our zephyr
+classes, etc.), we encourage you to reach out to the speaker and/or
+the intended target privately and discuss your thoughts with them. It
+is usually best not to do this publicly as that often triggers
+defensive reflexes, involves even more people, and results in a heated
+conversation that is both distracting and often more toxic than the
+original comment.
+
+Again, "People don't remember what you tell them, they remember how
+you make them feel.". Although Lt. Foobar may have made you feel
+sucky, you should still keep this principle in mind when addressing it
+with them. A harsh, public call-out will likely make them feel like
+you want to attack them, not that you want SIPB to be a better place.
+
+Above all however, you should *always* feel welcome to approach the
+Chair or the rest of the EC regarding *any* issue, social or
+otherwise.
