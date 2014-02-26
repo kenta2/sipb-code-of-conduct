@@ -1,15 +1,31 @@
 SIPB Social Principles
 
-Preamble:
+SIPB is an awesome place for interacting with computers, but there are
+people here too! Sometimes though, the line between these gets blurred
+in our heads, and we end up interacting with people like they are
+machines, which results in a sour experience for all parties involved.
+So, we've come up with a set of core principles that we feel is
+important to keep in mind when interacting with our mortal
+counterparts:
 
-The purpose of these principles is to provide guidance and a baseline
-for interpersonal interactions at SIPB, whether in the office, at a
-hackathon, or in an electronic medium.  These expectations are focused
-on individual empowerment and making SIPB a supportive, productive,
-and fun learning environment, where people feel comfortable making
-mistakes and learning from them.  We also hope that this document will
-raise awareness of some common behavior that can be off-putting to
-others.
+1) People don't remember what you tell them, they remember how you
+make them feel.
+
+2) Be sincere.
+
+3) Don't be a jerk.
+
+4) Keep (1) through (3) *especially* in mind when interacting online:
+email, zephyr, etc. Computers have a knack for making human
+interactions less than human.
+
+Sounds simple, right? Unfortunately, it isn't. People aren't usually
+purposefully being unfeeling, insincere, or a jerk, but it still
+happens; c.f. computers vs. humans, we're not perfect. So, we've also
+collected guidelines regarding common examples of where people forget
+these principles and accidentally contribute to a junky social
+environment.  They're not comprehensive, but we think they catch the
+most common pitfalls.
 
 Perfection is not required for participation
 
