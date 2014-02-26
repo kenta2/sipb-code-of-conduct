@@ -43,7 +43,7 @@ better, but please don't do so in a way that suggests that they're bad
 person for doing what they did, that they should have done better, or
 that their contribution wasn't worth making.
 
-No feigning surprise
+Avoid expressing surprise at ignorance
 
 This first principle is aimed at discouraging the practice of acting
 overly surprised when some says they don't know something.  This
@@ -54,37 +54,29 @@ someone doesn't know something that you have taken for granted.  But
 consider whether the person, who has already admitted to not knowing
 something, wants to be further reminded of it by your reaction.
 
-Feigning surprise has absolutely no social or educational benefit:
-When people feign surprise, it's usually to make them feel better
-about themselves or demonstrate their vast array of knowledge at the
-expense of others' emotions.  Even when that's not the intention, it's
-almost always the effect.  We want SIPB to be a place where people
-feel safe saying "I don't know" or "I don't understand", because those
-are the first steps to learning.  We don't want an environment where
-people don't feel like a "real" SIPB member/prospective because they
-don't know what wget(1) or nc(1) are.
+We want SIPB to be a place where people feel safe saying "I don't
+know" or "I don't understand", because those are the first steps to
+learning. We don't want an environment where people don't feel like a
+"real" SIPB member/prospective because they don't know what wget(1) or
+nc(1) are.
 
-No well-actually's
+Avoid over-correcting others ("Well, actually...")
 
-A well-actually[2] happens when someone says something that's almost -
-but not entirely - correct, and you say, "well, actually..." and then
-give a _minor_ correction. This is especially annoying when the
-correction has no bearing on the actual conversation. This doesn't
-mean SIPB isn't about truth-seeking or that we don't care about being
-precise.  However, many well-actually's are, like feigning surprise,
-primarily about (intentionally or unintentionately) demonstrating
-one's own knowledge, not truth-seeking.
+It's hard to resist the urge to demonstrate your knowledge about a
+subject; SIPB is as much as place for teaching as it is a place for
+learning. However, it can be really off-putting when that urge
+manifests itself by someone over-correcting someone else, usually by
+pointing out a subtle technicality. These are easy to spot because
+they almost always start "Well, actually...". While "Well, actually"
+may be appropriate when conveying a major correction or preventing
+someone from making a dangerous mistake, you may wish to consider
+finding a different way to say it.  Remember, people don't remember
+what you tell them, they remember how you make them feel.
 
-While "Well, actually" may be appropriate when conveying a major
-correction or preventing someone from making a dangerous mistake, you
-may wish to consider finding a different way to say it.  In short:
-"People don't remember what you tell them, they remember how you make
-them feel."[1]
+Back-seat driving is disruptive
 
-Back-seat driving can be disruptive
-
-If you overhear people working through a problem, you shouldn't
-intermittently lob advice across the room. This can lead to the "too
+If you overhear people working through a problem, avoid
+intermittently lobbing advice across the room. This can lead to the "too
 many cooks" problem, but more important, it can be rude and disruptive
 to half-participate in a conversation. This isn't to say you shouldn't
 help, offer advice, or join conversations. On the contrary, we
