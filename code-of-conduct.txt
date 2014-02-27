@@ -193,4 +193,5 @@ so this document is directed at those who would speak such speech.
 We make the assumption that there is no underlying animosity (for example, actual racism, sexism, etc.) that is inducing code of conduct violations.
 This assumption means that, after correcting speech to abide by this code of conduct,
 there will not be further actions (driven by underlying animosity) for which harmful speech was merely a symptom.
-(This is in contrast to philosophies which treat offensive speech as merely a symptom of a deeper underlying problem and attempt to address the underlying problem, rather than merely curtail speech.)
+(This is in contrast to philosophies which treat offensive speech as merely a symptom of a deeper underlying problem
+and attempt to address the underlying problem, rather than merely curtail speech.)
