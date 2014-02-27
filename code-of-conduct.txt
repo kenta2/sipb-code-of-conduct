@@ -134,15 +134,18 @@ Our social principles and clarifying guidelines are intended to be a set
 of things we can mutually agree to strive to live by as a community.
 They aren't intended to be a stick to beat people with for "being bad".
 However, it's still important that people be able to help improve the
-social environment when they see something they think is destructive.  
-Under any circumstance, however, if someone's behavior or speech in
-the office is making you feel uncomfortable or unwelcome, please
-contact a member of the EC.
+social environment when they see something they think is destructive,
+the following paragraphs describe the best way to go about it.  Under 
+any circumstance, however, if someone's behavior or speech in the
+office is making you feel uncomfortable or unwelcome, and you do not
+feel comfortable talking to that person, please contact a member of
+the EC.
 
 If you feel someone has contributed negatively to a SIPB social
-environment (in the office, on a SIPB email list, on our zephyr classes,
-etc.), we encourage you to reach out to that person (or the intended
-target, if you are a third party) and discuss your thoughts with them.
+environment (in the office, on a SIPB email list, on our zephyr
+classes, etc.), we encourage you to reach out to that person (or the
+intended target, if you are a third party) and discuss your thoughts
+with them.
 
 Publicly calling someone out is generally ill-suited to any electronic
 medium, because it can result in a heated conversation that is not only
