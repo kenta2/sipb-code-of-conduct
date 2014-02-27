@@ -43,7 +43,7 @@ better, but please don't do so in a way that suggests that they're bad
 person for doing what they did, that they should have done better, or
 that their contribution wasn't worth making.
 
-Avoid expressing surprise at ignorance
+Be careful expressing surprise
 
 This first principle is aimed at discouraging the practice of acting
 overly surprised when some says they don't know something.  This
@@ -52,11 +52,13 @@ know what Hesiod is!") and non-technical things ("You don't know who
 RMS is?!").  That's not to say you may not be genuinely surprised when
 someone doesn't know something that you have taken for granted.  But
 consider whether the person, who has already admitted to not knowing
-something, wants to be further reminded of it by your reaction.
+something, wants to be further reminded of it by your reaction.  Even
+when it's not your intention to upset someone, it's almost ways the
+end result.
 
 We want SIPB to be a place where people feel safe saying "I don't
 know" or "I don't understand", because those are the first steps to
-learning. We don't want an environment where people don't feel like a
+learning.  We don't want an environment where people don't feel like a
 "real" SIPB member/prospective because they don't know what wget(1) or
 nc(1) are.
 
@@ -132,7 +134,10 @@ Our social principles and clarifying guidelines are intended to be a set
 of things we can mutually agree to strive to live by as a community.
 They aren't intended to be a stick to beat people with for "being bad".
 However, it's still important that people be able to help improve the
-social environment when they see something they think is destructive.
+social environment when they see something they think is destructive.  
+Under any circumstance, however, if someone's behavior or speech in
+the office is making you feel uncomfortable or unwelcome, please
+contact a member of the EC.
 
 If you feel someone has contributed negatively to a SIPB social
 environment (in the office, on a SIPB email list, on our zephyr classes,
