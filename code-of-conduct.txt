@@ -1,15 +1,31 @@
 SIPB Social Principles
 
-Preamble:
+SIPB is an awesome place for interacting with computers, but there are
+people here too! Sometimes though, the line between these gets blurred
+in our heads, and we end up interacting with people like they are
+machines, which results in a sour experience for all parties involved.
+So, we've come up with a set of core principles that we feel is
+important to keep in mind when interacting with our mortal
+counterparts:
 
-The purpose of these principles is to provide guidance and a baseline
-for interpersonal interactions at SIPB, whether in the office, at a
-hackathon, or in an electronic medium.  These expectations are focused
-on individual empowerment and making SIPB a supportive, productive,
-and fun learning environment, where people feel comfortable making
-mistakes and learning from them.  We also hope that this document will
-raise awareness of some common behavior that can be off-putting to
-others.
+1) People don't remember what you tell them, they remember how you
+make them feel.
+
+2) Be sincere.
+
+3) Don't be a jerk.
+
+4) Keep (1) through (3) *especially* in mind when interacting online:
+email, zephyr, etc. Computers have a knack for making human
+interactions less than human.
+
+Sounds simple, right? Unfortunately, it isn't. People aren't usually
+purposefully being unfeeling, insincere, or a jerk, but it still
+happens; c.f. computers vs. humans, we're not perfect. So, we've also
+collected guidelines regarding common examples of where people forget
+these principles and accidentally contribute to a junky social
+environment.  They're not comprehensive, but we think they catch the
+most common pitfalls.
 
 Perfection is not required for participation
 
@@ -27,7 +43,7 @@ better, but please don't do so in a way that suggests that they're bad
 person for doing what they did, that they should have done better, or
 that their contribution wasn't worth making.
 
-No feigning surprise
+Be careful expressing surprise
 
 This first principle is aimed at discouraging the practice of acting
 overly surprised when some says they don't know something.  This
@@ -36,28 +52,28 @@ know what Hesiod is!") and non-technical things ("You don't know who
 RMS is?!").  That's not to say you may not be genuinely surprised when
 someone doesn't know something that you have taken for granted.  But
 consider whether the person, who has already admitted to not knowing
-something, wants to be further reminded of it by your reaction.
+something, wants to be further reminded of it by your reaction.  Even
+when it's not your intention to upset someone, it's almost ways the
+end result.
 
-Feigning surprise has absolutely no social or educational benefit:
-When people feign surprise, it's usually to make them feel better
-about themselves or demonstrate their vast array of knowledge at the
-expense of others' emotions.  Even when that's not the intention, it's
-almost always the effect.  We want SIPB to be a place where people
-feel safe saying "I don't know" or "I don't understand", because those
-are the first steps to learning.  We don't want an environment where
-people don't feel like a "real" SIPB member/prospective because they
-don't know what wget(1) or nc(1) are.
+We want SIPB to be a place where people feel safe saying "I don't
+know" or "I don't understand", because those are the first steps to
+learning.  We don't want an environment where people don't feel like a
+"real" SIPB member/prospective because they don't know what wget(1) or
+nc(1) are.
 
-No well-actually's
+Avoid over-correcting others ("Well, actually...")
 
-A well-actually[2] happens when someone says something that's almost -
-but not entirely - correct, and you say, "well, actually..." and then
-give a _minor_ correction. This is especially annoying when the
-correction has no bearing on the actual conversation. This doesn't
-mean SIPB isn't about truth-seeking or that we don't care about being
-precise.  However, many well-actually's are, like feigning surprise,
-primarily about (intentionally or unintentionately) demonstrating
-one's own knowledge, not truth-seeking.
+It's hard to resist the urge to demonstrate your knowledge about a
+subject; SIPB is as much as place for teaching as it is a place for
+learning. However, it can be really off-putting when that urge
+manifests itself by someone over-correcting someone else, usually by
+pointing out a subtle technicality. These are easy to spot because
+they almost always start "Well, actually...". While "Well, actually"
+may be appropriate when conveying a major correction or preventing
+someone from making a dangerous mistake, you may wish to consider
+finding a different way to say it.  Remember, people don't remember
+what you tell them, they remember how you make them feel.
 
 While "Well, actually" may be appropriate when conveying a major
 correction or preventing someone from making a dangerous mistake, you
@@ -65,11 +81,9 @@ may wish to consider finding a different way to say it.  In short:
 "People don't remember what you tell them, they remember how you make
 them feel."[1]
 
-Back-seat driving is disruptive
-
-If you overhear people working through a problem, you shouldn't
-intermittently lob advice across the room. This can lead to the "too
-many cooks" problem, but more important, it can be rude and disruptive
+If you overhear people working through a problem, avoid
+intermittently lobbing advice across the room. This can lead to the "too
+many cooks" problem, but more importantly, it can be rude and disruptive
 to half-participate in a conversation. This isn't to say you shouldn't
 help, offer advice, or join conversations. On the contrary, we
 encourage all those things. Rather, it just means that when you want
@@ -90,10 +104,11 @@ from the ones above it, because it's often not a specific, observable
 phenomenon ("well-actually's" are easy to spot because they almost
 always start with the words "well, actually...").
 
-Unlike the other guidelines, incidents which violate this principle
-may not be a comment directed at a specific individual.  In situations
-like this, anyone who observes the behavior should feel empowered to
-talk to the people involved or bring it to the attention of the EC.
+Unlike many of the situations described in our other guidelines, these
+sorts of incidents may not take the form of a comment directed at a
+specific individual. In situations like this, anyone who observes the
+behavior should feel empowered to talk to the people involved or bring
+it to the attention of the EC.
 
 If someone says a comment you made was sexist, racist, or otherwise
 discriminatory, please do not enter into a protracted debate about it,
@@ -104,59 +119,49 @@ member of the EC to discuss the incident further.
 
 The most sincere apologies consist of "I'm sorry"
 
-An apology should be a sincere expression of sadness for the sadness of
-others.  If you violate one of the principles in this document, but then
-qualify your apology with "...that", "...if", "..but", you're implying
-that the other person shares some of the blame for the incident.  Since
-they're the one who's upset, that's not true.  You may not have intended
-to make them feel bad, but you did, and saying "I'm sorry" shows that
-you regret that they feel bad (which, hopefully, you do.)
+An apology should be a sincere expression of sadness for the sadness
+of others. If you apologize but then qualify your apology with
+"...that", "...if", "...but", you'll likely make the recipient feel
+like you're implying that they share some of the blame for the
+incident; it won't feel like an apology to them.
 
 Sometimes, people are tempted to say "I'm sorry, but" (etc.) because
 they don't want to concede their point in a discussion.  But this sort
 of "I'm sorry" isn't really an apology, and is an insincere use of the
 words.  Being sorry that someone else feels bad doesn't mean that you
 necessarily agree with them, it just means that you recognize that
-they're upset and wish that weren't the case.  This is an opportunity
-to think about how to better word your point in order to avoid
-upsetting others in the future.
-
-Why have these principles?
-
-The goal isn't to burden SIPB with a bunch of annoying rules, nor to
-give us a stick to bludgeon people with for "being bad", nor to
-encourage "tattling".  Rather, these rules are designed to help all of
-us build a pleasant, productive, and welcoming community.
+they're upset and sincerely wish that weren't the case.
 
 What happens if someone violates these principles?
 
-It is our hope that the entire community will strive to uphold these
-principles.  If you feel that someone's behavior towards you violates
-the letter or the spirit of these principles, it is our hope that this
-document will make you feel empowered to raise this issue with that
-person, and explain your feelings.  As always, however, if someone's
-behavior or speech in the office is making you feel uncomfortable or
-unwelcome, please contact a member of the EC.
+Our social principles and clarifying guidelines are intended to be a set
+of things we can mutually agree to strive to live by as a community.
+They aren't intended to be a stick to beat people with for "being bad".
+However, it's still important that people be able to help improve the
+social environment when they see something they think is destructive,
+the following paragraphs describe the best way to go about it.  Under 
+any circumstance, however, if someone's behavior or speech in the
+office is making you feel uncomfortable or unwelcome, and you do not
+feel comfortable talking to that person, please contact a member of
+the EC.
 
-If you, as a third party, observe someone else violating the letter or
-spirit of these principles, you are encouraged to speak with the
-person who is upset (if feel comfortable doing so) and discuss the
-incident with them, and if they're still upset, encourage them to
-reach out to the EC.  You should also feel empowered to speak to the
-other party, if you feel comfortable doing so.  Finally, as always, if
-someone's behavior or speech in the office is making you feel
-uncomfortable or unwelcome, please contact a member of the EC.
+If you feel someone has contributed negatively to a SIPB social
+environment (in the office, on a SIPB email list, on our zephyr
+classes, etc.), we encourage you to reach out to that person (or the
+intended target, if you are a third party) and discuss your thoughts
+with them.
+
+Publicly calling someone out is generally ill-suited to any electronic
+medium, because it can result in a heated conversation that is not only
+distracting, but may in the long run be more toxic than the original
+comment.  If you choose to call someone out in person, focus on what
+they said or did, and not on the person themselves.
 
 Finally, if you yourself realize that you just violated these
 principles, call yourself out on it publicly.  Doing so will help
 convey that these issues are important to the community, and may help
-empower others to speak up.  If someone else tells you that you
-violated these principles, take a minute to reflect, and apologize to
-the person, and move on.  It doesn't mean you're a "bad" person, or
-even a "bad" SIPB member.  After all, SIPB should be a place where 
-people can make mistakes and learn from them -- and that includes social
-mistakes.  If you make an occasional social error, _but then learn from
-it_, that's at least as useful as learning something technical.
+empower others to speak up.  It doesn't mean you're a "bad" person, or
+even a "bad" SIPB member.
 
-[1] Licensed from Peter Iannucci, CC-BY-SA.
-[2] The term "well-actually" was originally coined by Miguel de Icaza.
+Above all, you should *always* feel welcome to approach the Chair or
+any member of the EC regarding *any* issue, social or otherwise.
