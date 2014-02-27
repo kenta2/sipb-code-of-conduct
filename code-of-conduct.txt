@@ -159,3 +159,38 @@ even a "bad" SIPB member.
 
 Above all, you should *always* feel welcome to approach the Chair or
 any member of the EC regarding *any* issue, social or otherwise.
+
+Epilogue: Philosophical assumptions
+
+This code of conduct was written making the following philosophical assumptions,
+which we explictly state for completeness,
+and to potentially provide a framework for future modifications should they become deemed necessary.
+
+1. You can change people.
+We make the assumption that people who would otherwise violate this code of conduct can be induced to modify their behavior not to do so, if, for example, told to read this document.
+(This is in contrast to the opposing philosophical assumption, "You can't change people".)
+However, if it is the case that a violating person cannot change,
+we make the assumption that excluding that person from SIPB is worth the cost of others who would have been excluded due to the negativity of that person.
+
+2. Monoculturalism.
+We make the assumption that it is in the best interests of SIPB to be an organization such that every person in SIPB can get along with any other person in SIPB,
+at least in that both sides can expect this code of conduct to be followed.
+(This is in contrast to a "multiculturalism" philosophy,
+which lets SIPB be a confederation of subsets of people who internally can get along with each other within each subset,
+but there is no expectation for people in different subsets to get along with each other.)
+
+3. Blame.
+We make the assumption that assigning blame for harm is the proper way to deal with the harm. 
+We further assume that SIPB's mechanisms for accurately discovering and fairly assigning blame are sufficient for the issues being addressed in this code of conduct.
+(This is in contrast to a "truth and reconcilation" philosophy which attempts to avoid assigning blame.)
+
+4. Blame of the speaker.
+We make the assumption that the harm due to speech is the fault of the speaker,
+so this document is directed at those who would speak such speech.
+(This is in contrast to philosophies which partly assign the blame of the harm to the listener or to larger issues of society.)
+
+5. No underlying animosity. 
+We make the assumption that there is no underlying animosity (for example, actual racism, sexism, etc.) that is inducing code of conduct violations.
+This assumption means that, after correcting speech to abide by this code of conduct,
+there will not be further actions (driven by underlying animosity) for which harmful speech was merely a symptom.
+(This is in contrast to philosophies which treat offensive speech as merely a symptom of a deeper underlying problem and attempt to address the underlying problem, rather than merely curtail speech.)
