@@ -179,10 +179,11 @@ at least in that both sides can expect this code of conduct to be followed.
 which lets SIPB be a confederation of subsets of people who internally can get along with each other within each subset,
 but there is no expectation for people in different subsets to get along with each other.)
 
-3. Blame.
+3. Assign blame.
 We make the assumption that assigning blame for harm is the proper way to deal with the harm. 
 We further assume that SIPB's mechanisms for accurately discovering and fairly assigning blame are sufficient for the issues being addressed in this code of conduct.
 (This is in contrast to a "truth and reconcilation" philosophy which attempts to avoid assigning blame.)
+This assumption is necessary to support the next assumption.
 
 4. Blame of the speaker.
 We make the assumption that the harm due to speech is the fault of the speaker,
