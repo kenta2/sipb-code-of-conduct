@@ -160,7 +160,7 @@ even a "bad" SIPB member.
 Above all, you should *always* feel welcome to approach the Chair or
 any member of the EC regarding *any* issue, social or otherwise.
 
-Epilogue: Philosophical assumptions
+Appendix: Philosophical assumptions
 
 This code of conduct was written making the following philosophical assumptions,
 which we explictly state for completeness,
